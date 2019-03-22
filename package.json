@@ -1,0 +1,15 @@
+{
+  "name": "web-audio",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel": "^1.12.3"
+  },
+  "scripts": {
+    "start": "parcel src/index.html"
+  },
+  "dependencies": {
+    "tone": "^13.4.9"
+  }
+}

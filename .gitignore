@@ -1,0 +1,6 @@
+.cache
+assets/*.m4a
+assets/*.mp3
+assets/*.ogg
+dist
+node_modules

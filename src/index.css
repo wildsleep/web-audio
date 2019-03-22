@@ -1,0 +1,26 @@
+:root {
+	--color-accent: rgba(244, 96, 54, 1);
+	--color-main: rgba(91, 133, 170, 1);
+	--color-mid: rgba(65, 71, 112, 1);
+	--color-darkish: rgba(55, 34, 72, 1);
+	--color-dark: rgba(23, 17, 35, 1);
+}
+
+html {
+	font-family: 'Lato', sans-serif;
+	color: var(--color-main);
+	background-color: var(--color-dark);
+}
+
+body {
+	font-size: 0.875rem;
+}
+
+#main {
+	max-width: 60em;
+	margin: 0 auto;
+}
+
+h1 {
+	color: var(--color-accent);
+}
